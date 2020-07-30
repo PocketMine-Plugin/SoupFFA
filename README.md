@@ -26,15 +26,10 @@ Clean SoupFFA Game
     - [ ] Game Plugins
     	- [ ] KnockBackFFA(KnockIt)
 
-### Next TODO:
-- add /spectator command
-- add /sfabout command
+### TODO:
+- Add /spectator command
+- Add /sfabout command
 
-# Addon Plugins
-- [LobbyItems-PMExperts](https://github.com/PMExpertsDE/LobbyItems-PMExperts)
-- [MeCommand(for Altay Servers](https://github.com/PMExpertsDE/MeCommand)
-
-### You want to help us?
-Do it! Yeah were search for Developers of you want to help do it.
-
-## Thanks for all Users and Helpers!
+## Addon Plugins
+- [LobbyItems](https://github.com/PocketMine-Plugin/LobbyItems)
+- [MeCommand(for Altay Servers](https://github.com/PocketMine-Plugin/MeCommand)
