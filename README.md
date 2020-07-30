@@ -32,4 +32,4 @@ Clean SoupFFA Game
 
 ## Addon Plugins
 - [LobbyItems](https://github.com/PocketMine-Plugin/LobbyItems)
-- [MeCommand(for Altay Servers](https://github.com/PocketMine-Plugin/MeCommand)
+- [MeCommand(for Altay Servers)](https://github.com/PocketMine-Plugin/MeCommand)
